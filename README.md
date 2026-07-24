@@ -28,6 +28,7 @@ I am an early-career technology professional leveraging experience in software d
 
 ### Price Scout
 Product pricing database and dashboard integration project focused on relational database design, data modeling, and technology solutions.
+Repository: https://github.com/staringoff/price-scout
 
 ### AWS REST API Integration Website
 Static website hosted on AWS S3 integrating a REST API and JSON data using JavaScript.
