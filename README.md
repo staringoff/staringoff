@@ -32,6 +32,8 @@ Repository: https://github.com/staringoff/price-scout
 
 ### AWS REST API Integration Website
 Static website hosted on AWS S3 integrating a REST API and JSON data using JavaScript.
+Repository: https://github.com/staringoff/aws-rest-api
 
 ### Vroom Vault
 Relational database design project demonstrating SQL queries, database relationships, and structured data modeling.
+Repository: https://github.com/staringoff/vroom-vault
